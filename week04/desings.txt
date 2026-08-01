@@ -1,0 +1,21 @@
+For the YouTube Video Program I will need.
+
+Two classes: Video and Comment. 
+
+In the Video class we will need a list of comments. And a method named commentsNumber. With also private strings and an int from _title, _author, and _legth
+
+In the Comment class we will need a method called name and another one called text. 
+
+
+Four Classes for the Online Ordering Program.
+
+Product,Order,Address and Customer.
+
+Product will have a string _name, _productId, _price, _quantity. And the CalculateTotalCost Method.
+
+Order will have a list called Products and a Customer object. The follow Method will be in it AddProduct,GetPacking and GetShipping.
+
+Address will have this four strings StreetAddres,City,StateProvince and Country.
+
+Lastely the Customer will have the name string and the CustomerAddress object. And the CustomerAddress.USA method.
+
