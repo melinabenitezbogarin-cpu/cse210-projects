@@ -1,0 +1,15 @@
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week01\Exercise1\bin\Debug\net10.0\Exercise1.exe
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week01\Exercise1\bin\Debug\net10.0\Exercise1.deps.json
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week01\Exercise1\bin\Debug\net10.0\Exercise1.runtimeconfig.json
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week01\Exercise1\bin\Debug\net10.0\Exercise1.dll
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week01\Exercise1\bin\Debug\net10.0\Exercise1.pdb
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week01\Exercise1\obj\Debug\net10.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week01\Exercise1\obj\Debug\net10.0\Exercise1.AssemblyInfoInputs.cache
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week01\Exercise1\obj\Debug\net10.0\Exercise1.AssemblyInfo.cs
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week01\Exercise1\obj\Debug\net10.0\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week01\Exercise1\obj\Debug\net10.0\Exercise1.sourcelink.json
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week01\Exercise1\obj\Debug\net10.0\Exercise1.dll
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week01\Exercise1\obj\Debug\net10.0\refint\Exercise1.dll
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week01\Exercise1\obj\Debug\net10.0\Exercise1.pdb
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week01\Exercise1\obj\Debug\net10.0\Exercise1.genruntimeconfig.cache
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week01\Exercise1\obj\Debug\net10.0\ref\Exercise1.dll

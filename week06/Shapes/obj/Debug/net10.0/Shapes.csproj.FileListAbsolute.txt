@@ -1,0 +1,15 @@
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week06\Shapes\bin\Debug\net10.0\Shapes.exe
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week06\Shapes\bin\Debug\net10.0\Shapes.deps.json
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week06\Shapes\bin\Debug\net10.0\Shapes.runtimeconfig.json
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week06\Shapes\bin\Debug\net10.0\Shapes.dll
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week06\Shapes\bin\Debug\net10.0\Shapes.pdb
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week06\Shapes\obj\Debug\net10.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week06\Shapes\obj\Debug\net10.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week06\Shapes\obj\Debug\net10.0\Shapes.AssemblyInfo.cs
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week06\Shapes\obj\Debug\net10.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week06\Shapes\obj\Debug\net10.0\Shapes.sourcelink.json
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week06\Shapes\obj\Debug\net10.0\Shapes.dll
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week06\Shapes\obj\Debug\net10.0\refint\Shapes.dll
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week06\Shapes\obj\Debug\net10.0\Shapes.pdb
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week06\Shapes\obj\Debug\net10.0\Shapes.genruntimeconfig.cache
+C:\Users\Melina\OneDrive\Documents\cse210-projects\week06\Shapes\obj\Debug\net10.0\ref\Shapes.dll
